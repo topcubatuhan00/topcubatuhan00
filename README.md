@@ -6,7 +6,7 @@
 
 <br>
 
-<p><img align="right" style="height:400px;" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="" /></p>
+<p><img align="right" style="height:400px;" src="https://infoset.app/blog/wp-content/uploads/2021/11/instagram-business-profile-1024x682.jpg" alt="" /></p>
 
 <br>
 
