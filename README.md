@@ -6,7 +6,8 @@
 
 <br>
 
-<p><img align="right" style="height:400px;" src="https://infoset.app/blog/wp-content/uploads/2021/11/instagram-business-profile-1024x682.jpg" alt="" /></p>
+<p><img align="right" style="height:400px;" src="https://dosya.co/mu0cywey4f7e/instagram-business-profile-1024x682-removebg-preview.png.html
+" alt="" /></p>
 
 <br>
 
