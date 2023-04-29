@@ -6,8 +6,7 @@
 
 <br>
 
-<p><img align="right" style="height:400px;" src="http://topcubatuhan.ml/images/illustrations/hello3.svg
-" alt="" /></p>
+<p><img align="right" style="height:400px;" src="http://topcubatuhan.ml/images/illustrations/hello3.svg" alt="" /></p>
 
 <br>
 
