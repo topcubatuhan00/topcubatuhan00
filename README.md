@@ -12,7 +12,7 @@
 
 <h3 align="center">- 🌱 I’m currently learning .Net Web Development and other programming languages</h3>
 
-<h3 align="center">- 📫 How to reach me **topcubatuhan00@gmail.com**</h3>
+<h3 align="center">- 📫 How to reach me topcubatuhan00@gmail.com </h3>
 
 <br>
 
