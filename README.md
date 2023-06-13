@@ -6,15 +6,13 @@
 
 <br>
 
-<p><img align="right" style="height:400px;" src="http://topcubatuhan.ml/images/illustrations/hello3.svg?i=1" alt="" /></p>
+<p><img align="center" style="height:400px;" src="http://topcubatuhan.ml/images/illustrations/hello3.svg?i=1" alt="" /></p>
 
 <br>
 
-- 🌱 I’m currently learning .Net Web Development and other programming languages
+<h3 align="center">- 🌱 I’m currently learning .Net Web Development and other programming languages</h3>
 
-- 📫 How to reach me **topcubatuhan00@gmail.com**
-
-- [![](https://visitcount.itsvg.in/api?id=topcubatuhan00&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<h3 align="center">- 📫 How to reach me **topcubatuhan00@gmail.com**</h3>
 
 <br>
 
