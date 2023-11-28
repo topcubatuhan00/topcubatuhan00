@@ -1,12 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Batuhan</h1>
-<h3 align="center">Junior .Net Web Developer🌟.</h3>
-
-<h3 align="center">You can check it out here when my own website.</h3>
-<h4 align="center">http://topcubatuhan.ml</h4>
+<h3 align="center">Junior Backend Developer🌟.</h3>
 
 <br>
 
-<p><img align="center" style="height:400px;" src="http://topcubatuhan.ml/images/illustrations/hello3.svg?i=1" alt="" /></p>
+<p><img align="center" style="height:400px;" src="https://topcubatuhan00.github.io/images/illustrations/hello3.svg" alt="" /></p>
 
 <br>
 
